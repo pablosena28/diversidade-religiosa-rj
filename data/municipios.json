@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "title": "Diversidade Religiosa do Rio de Janeiro",
+    "year": 2022,
+    "geography": "Rio de Janeiro",
+    "demo": true,
+    "source_label": "Base demonstrativa local — valores fictícios",
+    "source_url": "",
+    "method": "Shannon normalizado por ln(k)"
+  },
+  "groups": [
+    {
+      "id": "catolica-apostolica-romana",
+      "label": "Católica Apostólica Romana"
+    },
+    {
+      "id": "evangelicas",
+      "label": "Evangélicas"
+    },
+    {
+      "id": "espirita",
+      "label": "Espírita"
+    },
+    {
+      "id": "umbanda-e-candomble",
+      "label": "Umbanda e Candomblé"
+    },
+    {
+      "id": "outras-religiosidades",
+      "label": "Outras religiosidades"
+    },
+    {
+      "id": "sem-religiao",
+      "label": "Sem religião"
+    },
+    {
+      "id": "tradicoes-indigenas",
+      "label": "Tradições indígenas"
+    }
+  ],
+  "municipios": [
+    {
+      "codigo_ibge": "demo-001",
+      "municipio": "Município demonstrativo 01",
+      "total_classificado": 100000.0,
+      "counts": {
+        "catolica-apostolica-romana": 44000.0,
+        "evangelicas": 29000.0,
+        "espirita": 6500.0,
+        "umbanda-e-candomble": 3200.0,
+        "outras-religiosidades": 4100.0,
+        "sem-religiao": 12500.0,
+        "tradicoes-indigenas": 700.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.44,
+        "evangelicas": 0.29,
+        "espirita": 0.065,
+        "umbanda-e-candomble": 0.032,
+        "outras-religiosidades": 0.041,
+        "sem-religiao": 0.125,
+        "tradicoes-indigenas": 0.007
+      },
+      "dominant": "catolica-apostolica-romana",
+      "margin": 0.15,
+      "diversity_index": 0.73675199
+    },
+    {
+      "codigo_ibge": "demo-002",
+      "municipio": "Município demonstrativo 02",
+      "total_classificado": 100000.0,
+      "counts": {
+        "catolica-apostolica-romana": 36000.0,
+        "evangelicas": 35500.0,
+        "espirita": 3800.0,
+        "umbanda-e-candomble": 2200.0,
+        "outras-religiosidades": 4600.0,
+        "sem-religiao": 16800.0,
+        "tradicoes-indigenas": 1100.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.36,
+        "evangelicas": 0.355,
+        "espirita": 0.038,
+        "umbanda-e-candomble": 0.022,
+        "outras-religiosidades": 0.046,
+        "sem-religiao": 0.168,
+        "tradicoes-indigenas": 0.011
+      },
+      "dominant": "catolica-apostolica-romana",
+      "margin": 0.005,
+      "diversity_index": 0.73724088
+    },
+    {
+      "codigo_ibge": "demo-003",
+      "municipio": "Município demonstrativo 03",
+      "total_classificado": 107300.0,
+      "counts": {
+        "catolica-apostolica-romana": 50500.0,
+        "evangelicas": 23200.0,
+        "espirita": 8100.0,
+        "umbanda-e-candomble": 4800.0,
+        "outras-religiosidades": 5600.0,
+        "sem-religiao": 14200.0,
+        "tradicoes-indigenas": 900.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.47064306,
+        "evangelicas": 0.21621622,
+        "espirita": 0.07548928,
+        "umbanda-e-candomble": 0.04473439,
+        "outras-religiosidades": 0.05219012,
+        "sem-religiao": 0.13233924,
+        "tradicoes-indigenas": 0.0083877
+      },
+      "dominant": "catolica-apostolica-romana",
+      "margin": 0.25442684,
+      "diversity_index": 0.76145466
+    },
+    {
+      "codigo_ibge": "demo-004",
+      "municipio": "Município demonstrativo 04",
+      "total_classificado": 95000.0,
+      "counts": {
+        "catolica-apostolica-romana": 28500.0,
+        "evangelicas": 39000.0,
+        "espirita": 2800.0,
+        "umbanda-e-candomble": 1800.0,
+        "outras-religiosidades": 3900.0,
+        "sem-religiao": 18200.0,
+        "tradicoes-indigenas": 800.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.3,
+        "evangelicas": 0.41052632,
+        "espirita": 0.02947368,
+        "umbanda-e-candomble": 0.01894737,
+        "outras-religiosidades": 0.04105263,
+        "sem-religiao": 0.19157895,
+        "tradicoes-indigenas": 0.00842105
+      },
+      "dominant": "evangelicas",
+      "margin": 0.11052632,
+      "diversity_index": 0.71616341
+    },
+    {
+      "codigo_ibge": "demo-005",
+      "municipio": "Município demonstrativo 05",
+      "total_classificado": 100000.0,
+      "counts": {
+        "catolica-apostolica-romana": 32500.0,
+        "evangelicas": 28500.0,
+        "espirita": 5100.0,
+        "umbanda-e-candomble": 6200.0,
+        "outras-religiosidades": 7300.0,
+        "sem-religiao": 19400.0,
+        "tradicoes-indigenas": 1000.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.325,
+        "evangelicas": 0.285,
+        "espirita": 0.051,
+        "umbanda-e-candomble": 0.062,
+        "outras-religiosidades": 0.073,
+        "sem-religiao": 0.194,
+        "tradicoes-indigenas": 0.01
+      },
+      "dominant": "catolica-apostolica-romana",
+      "margin": 0.04,
+      "diversity_index": 0.82349813
+    },
+    {
+      "codigo_ibge": "demo-006",
+      "municipio": "Município demonstrativo 06",
+      "total_classificado": 100000.0,
+      "counts": {
+        "catolica-apostolica-romana": 42000.0,
+        "evangelicas": 24000.0,
+        "espirita": 9700.0,
+        "umbanda-e-candomble": 3500.0,
+        "outras-religiosidades": 7200.0,
+        "sem-religiao": 12600.0,
+        "tradicoes-indigenas": 1000.0
+      },
+      "shares": {
+        "catolica-apostolica-romana": 0.42,
+        "evangelicas": 0.24,
+        "espirita": 0.097,
+        "umbanda-e-candomble": 0.035,
+        "outras-religiosidades": 0.072,
+        "sem-religiao": 0.126,
+        "tradicoes-indigenas": 0.01
+      },
+      "dominant": "catolica-apostolica-romana",
+      "margin": 0.18,
+      "diversity_index": 0.79499738
+    }
+  ]
+}
