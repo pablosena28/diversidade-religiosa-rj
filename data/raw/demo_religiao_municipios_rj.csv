@@ -1,0 +1,43 @@
+codigo_ibge,municipio,categoria,estimativa
+demo-001,Município demonstrativo 01,Católica Apostólica Romana,44000
+demo-001,Município demonstrativo 01,Evangélicas,29000
+demo-001,Município demonstrativo 01,Espírita,6500
+demo-001,Município demonstrativo 01,Umbanda e Candomblé,3200
+demo-001,Município demonstrativo 01,Outras religiosidades,4100
+demo-001,Município demonstrativo 01,Sem religião,12500
+demo-001,Município demonstrativo 01,Tradições indígenas,700
+demo-002,Município demonstrativo 02,Católica Apostólica Romana,36000
+demo-002,Município demonstrativo 02,Evangélicas,35500
+demo-002,Município demonstrativo 02,Espírita,3800
+demo-002,Município demonstrativo 02,Umbanda e Candomblé,2200
+demo-002,Município demonstrativo 02,Outras religiosidades,4600
+demo-002,Município demonstrativo 02,Sem religião,16800
+demo-002,Município demonstrativo 02,Tradições indígenas,1100
+demo-003,Município demonstrativo 03,Católica Apostólica Romana,50500
+demo-003,Município demonstrativo 03,Evangélicas,23200
+demo-003,Município demonstrativo 03,Espírita,8100
+demo-003,Município demonstrativo 03,Umbanda e Candomblé,4800
+demo-003,Município demonstrativo 03,Outras religiosidades,5600
+demo-003,Município demonstrativo 03,Sem religião,14200
+demo-003,Município demonstrativo 03,Tradições indígenas,900
+demo-004,Município demonstrativo 04,Católica Apostólica Romana,28500
+demo-004,Município demonstrativo 04,Evangélicas,39000
+demo-004,Município demonstrativo 04,Espírita,2800
+demo-004,Município demonstrativo 04,Umbanda e Candomblé,1800
+demo-004,Município demonstrativo 04,Outras religiosidades,3900
+demo-004,Município demonstrativo 04,Sem religião,18200
+demo-004,Município demonstrativo 04,Tradições indígenas,800
+demo-005,Município demonstrativo 05,Católica Apostólica Romana,32500
+demo-005,Município demonstrativo 05,Evangélicas,28500
+demo-005,Município demonstrativo 05,Espírita,5100
+demo-005,Município demonstrativo 05,Umbanda e Candomblé,6200
+demo-005,Município demonstrativo 05,Outras religiosidades,7300
+demo-005,Município demonstrativo 05,Sem religião,19400
+demo-005,Município demonstrativo 05,Tradições indígenas,1000
+demo-006,Município demonstrativo 06,Católica Apostólica Romana,42000
+demo-006,Município demonstrativo 06,Evangélicas,24000
+demo-006,Município demonstrativo 06,Espírita,9700
+demo-006,Município demonstrativo 06,Umbanda e Candomblé,3500
+demo-006,Município demonstrativo 06,Outras religiosidades,7200
+demo-006,Município demonstrativo 06,Sem religião,12600
+demo-006,Município demonstrativo 06,Tradições indígenas,1000
